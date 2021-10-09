@@ -1,4 +1,5 @@
 # MayorSecSecuroText3000
+![Vigenere](/images/vignere.png)
 
 SecuroText3000 will take unencrypted text files and encrypt the content utilizing a highly modified Vigenere cipher key. The increased key deviates from the typical alphabetical system, which increases the difficulty in cracking when the full key is not known.  
 
